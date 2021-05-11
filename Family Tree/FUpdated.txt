@@ -1,0 +1,150 @@
+Firstname:Raj
+Father'sname:
+Spousename:NOT MARRIED 
+Gender:M
+Age:80
+Total Earnings:10000.000000
+Educational Qualification:2
+Marital Status:1
+Surname:Hurkat
+IsAlive:1
+Firstname:Akhil
+Father'sname:Raj
+Spousename:Payal Tiwari
+Gender:M
+Age:29
+Total Earnings:10000.000000
+Educational Qualification:3
+Marital Status:1
+Surname:Hurkat
+IsAlive:1
+Firstname:Rohan
+Father'sname:Akhil
+Spousename:Shivani Tiwari
+Gender:M
+Age:27
+Total Earnings:10000.000000
+Educational Qualification:2
+Marital Status:1
+Surname:Hurkat
+IsAlive:1
+Firstname:Rohit
+Father'sname:Rohan
+Spousename:NOT MARRIED 
+Gender:M
+Age:0
+Total Earnings:0.000000
+Educational Qualification:0
+Marital Status:0
+Surname:Hurkat
+IsAlive:1
+Firstname:Janhvi
+Father'sname:Rohan
+Spousename:Rushabh Tiwari
+Gender:F
+Age:16
+Total Earnings:10000.000000
+Educational Qualification:2
+Marital Status:1
+Surname:Hurkat
+IsAlive:1
+Firstname:Tejaswi
+Father'sname:Akhil
+Spousename:NOT MARRIED 
+Gender:F
+Age:0
+Total Earnings:0.000000
+Educational Qualification:0
+Marital Status:0
+Surname:Hurkat
+IsAlive:1
+Firstname:Apoorva
+Father'sname:Akhil
+Spousename:Shantanu Tiwari
+Gender:F
+Age:27
+Total Earnings:10000.000000
+Educational Qualification:2
+Marital Status:1
+Surname:Hurkat
+IsAlive:1
+Firstname:Malti
+Father'sname:Raj
+Spousename:Shankar Tiwari
+Gender:F
+Age:84
+Total Earnings:10000.000000
+Educational Qualification:2
+Marital Status:1
+Surname:Hurkat
+IsAlive:1
+Firstname:Shankar
+Father'sname:
+Spousename:Malti Hurkat
+Gender:M
+Age:90
+Total Earnings:10000.000000
+Educational Qualification:2
+Marital Status:1
+Surname:Tiwari
+IsAlive:1
+Firstname:Shantanu
+Father'sname:Shankar
+Spousename:Apoorva Hurkat
+Gender:M
+Age:42
+Total Earnings:1000.000000
+Educational Qualification:2
+Marital Status:1
+Surname:Tiwari
+IsAlive:1
+Firstname:Rushabh
+Father'sname:Shantanu
+Spousename:Janhvi Hurkat
+Gender:M
+Age:29
+Total Earnings:10000.000000
+Educational Qualification:2
+Marital Status:1
+Surname:Tiwari
+IsAlive:1
+Firstname:Pratosh
+Father'sname:Rushabh
+Spousename:NOT MARRIED 
+Gender:M
+Age:12
+Total Earnings:10000.000000
+Educational Qualification:2
+Marital Status:0
+Surname:Tiwari
+IsAlive:1
+Firstname:Mayuri
+Father'sname:Rushabh
+Spousename:NOT MARRIED 
+Gender:F
+Age:9
+Total Earnings:40000.000000
+Educational Qualification:3
+Marital Status:0
+Surname:Tiwari
+IsAlive:1
+Firstname:Shivani
+Father'sname:Shantanu
+Spousename:Rohan Hurkat
+Gender:F
+Age:19
+Total Earnings:30000.000000
+Educational Qualification:2
+Marital Status:1
+Surname:Tiwari
+IsAlive:1
+Firstname:Payal
+Father'sname:Shankar
+Spousename:Akhil Hurkat
+Gender:F
+Age:47
+Total Earnings:20000.000000
+Educational Qualification:2
+Marital Status:1
+Surname:Tiwari
+IsAlive:1
